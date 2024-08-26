@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>extensionCallDirectoryExtension</string>
 	<key>CFBundleIdentifier</key>
-	<string>ch.bitforge.app-CallDirectoryExtension</string>
+	<string>ch.bitforge.app.CallDirectoryExtension</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleInfoDictionaryVersion</key>
